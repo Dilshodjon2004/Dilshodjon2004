@@ -8,7 +8,7 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
   <a href="https://www.facebook.com/dilshodbek.gulomov.5" style="display: inline;">
     <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="30px">  
   </a>
-  <a href="http://www.instagram.com/dilshodbek_gulomov" style="display: inline;">
+  <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
     <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-Logo-Square-1024x1024.png" width="30px">  
   </a>
 </p>
