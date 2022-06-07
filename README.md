@@ -6,7 +6,7 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
     <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
   </a>
   <a href="https://www.facebook.com/dilshodbek.gulomov.5" style="display: inline;">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-facebook-Logo-png.png" width="30px">  
+    <img src="https://befc.com.au/wp-content/uploads/2019/07/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.jpg" width="30px">  
   </a>
   <a href="http://www.instagram.com/dilshodbek_gulomov" style="display: inline;">
     <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
