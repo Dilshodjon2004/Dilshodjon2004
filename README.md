@@ -21,8 +21,8 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 
 ### Languages and tools I work with:
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/1008/538/png-transparent-web-development-html-cascading-style-sheets-css3-world-wide-web-angle-web-design-logo.png" width="30px"></code>
+<code><img src=h"ttps://www.lifepng.com/wp-content/uploads/2020/12/HTML5-Logo-png-hd.pngg" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30px"></code>
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
