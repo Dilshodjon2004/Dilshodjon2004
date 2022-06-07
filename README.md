@@ -19,7 +19,9 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
   </a>
 </p>
 
+### Lamguages and tools I work with:
 
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" width="30px"></code>
 
 
 
