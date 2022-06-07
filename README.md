@@ -23,8 +23,8 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 
 <code><img src="https://www.lifepng.com/wp-content/uploads/2020/12/HTML5-Logo-png-hd.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30px"></code>
-<code><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="30px"></code>
-<code><img src="" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30px"></code>
+<code><img src="https://spng.subpng.com/20180420/hbe/kisspng-sass-cascading-style-sheets-preprocessor-less-post-meng-5adaa47c6d07f0.0738015115242783964466.jpg" width="30px"></code>
 <code><img src="" width="30px"></code>
 
 
