@@ -15,7 +15,7 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px">  
   </a>
   <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/05/Flat-logo-WhatsApp-PNG.png" width="30px">  
+    <img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width="30px">  
   </a>
 </p>
 
