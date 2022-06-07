@@ -4,12 +4,12 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 <code><a href="http://www.instagram.com/dilshodbek_gulomov" display="inline">
   <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
 </a></code>
-<a href="http://www.instagram.com/dilshodbek_gulomov" display="inline">
+<code><a href="http://www.instagram.com/dilshodbek_gulomov" display="inline">
   <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
-</a>
-<a href="http://www.instagram.com/dilshodbek_gulomov">
+</a></code>
+<code><a href="http://www.instagram.com/dilshodbek_gulomov" display="inline">
   <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
-</a>
+</a></code>
 
 
 
