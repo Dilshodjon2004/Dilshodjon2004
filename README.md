@@ -11,10 +11,10 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
   <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
     <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-Logo-Square-1024x1024.png" width="30px">  
   </a>
-  <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
+  <a href="https://t.me/junior_software_engineer" style="display: inline;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px">  
   </a>
-  <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
+  <a href="https://wa.me/998994343475" style="display: inline;">
     <img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width="30px">  
   </a>
 </p>
