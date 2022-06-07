@@ -9,7 +9,7 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
     <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="30px">  
   </a>
   <a href="http://www.instagram.com/dilshodbek_gulomov" style="display: inline;">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" width="30px">  
+    <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-Logo-Square-1024x1024.png" width="30px">  
   </a>
 </p>
 
