@@ -25,7 +25,9 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="30px"></code>
-<code><img src="" width="30px"></code>
+<code><img src="https://mpng.subpng.com/20180824/ghg/kisspng-javascript-clip-art-openclipart-logo-number-5b8045d0be7b50.1522899915351331367802.jpg" width="30px"></code>
+code><img src="" width="30px"></code>
+code><img src="" width="30px"></code>
 
 
 
