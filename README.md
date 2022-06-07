@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Dilshodbek Gulomov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e473xptmgrql96z2siqhgqpg5stlq4nicm7ubo31y00&rid=giphy.gif&ct=s" width="30px">
 
 <!--
 **Dilshodjon2004/Dilshodjon2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
