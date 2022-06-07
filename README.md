@@ -1,4 +1,4 @@
-### Hi I'm Dilshodbek Gulomov <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4la7z/giphy.gif" width="27px">
+### Hi I'm Dilshodbek Gulomov <img src="https://media1.giphy.com/media/hvRJCLFzcasrRAia7z/giphy.gif" width="27px">
 
 
 
