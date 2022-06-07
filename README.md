@@ -19,11 +19,11 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
   </a>
 </p>
 
-### Lamguages and tools I work with:
+### Languages and tools I work with:
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/1008/538/png-transparent-web-development-html-cascading-style-sheets-css3-world-wide-web-angle-web-design-logo.png" width="30px"></code>
-<code><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-black.svg" width="30px"></code>
+<code><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-22-625241.png" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
 
