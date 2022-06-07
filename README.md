@@ -1,4 +1,4 @@
-### Hi I'm Dilshodbek Gulomov <img src="https://media0.giphy.com/media/VEEQ1tNwsqm9B6myMH/giphy.gif?cid=ecf05e477v9g53rvhusrphmyjufktg6seo8hvzztpa9pbpeb&rid=giphy.gif&ct=s" height="27px">
+### Hi I'm Dilshodbek Gulomov <img src="https://media0.giphy.com/media/VEEQ1tNwsqm9B6myMH/giphy.gif?cid=ecf05e477v9g53rvhusrphmyjufktg6seo8hvzztpa9pbpeb&rid=giphy.gif&ct=s" height="50px">
 
 I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Frontend Web-development, you can see my studying process and contact with me from my Social media pages (via posts and stories). <br>
 <p>
