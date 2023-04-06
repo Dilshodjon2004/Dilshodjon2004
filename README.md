@@ -29,7 +29,7 @@ I'm 18 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
  
  <br>
  
- - 📍 &nbsp; Current loaction: Andijan, Uzbekistan
+ - 📍 &nbsp; Current loaction: Tashkent, Uzbekistan
  - 📧 &nbsp;Ask me anything. I'll be happy if I can help to you.
 
 
