@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 
-I'm 21 years old and I study at Ajou University in Tashkent. Now I'm learning Frontend Web-development, you can see my studying process (via posts and stories) and contact with me from my social media profiles.
+👋 Hi, I’m Dilshodbek, 21 y/o Frontend Developer who also works with backend tools and understands how they fit together. Currently pursuing a Master’s in AI at Eötvös Loránd University. You can explore my projects in my repositories 🚀
+
 <br>
 
 ### 📊 GitHub Stats  
@@ -38,12 +39,12 @@ I'm 21 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8BOaJS__WDLbw__6UwcZeAOLO5M6eIhgYA&s" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="30px"></code>
+<code><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-png-download-1174925.png?f=webp" width="30px"></code>
+<code><img src="https://img.icons8.com/color/512/firebase.png" width="30px"></code>
+<code><img src="https://www.pngkey.com/png/detail/383-3838923_open-mongodb-icon.png" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSJmlNYGBG0wZYVdNpEFAPzVSnGM3LdOIBw&s" width="30px"></code>
  
  <br>
  
