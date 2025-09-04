@@ -2,7 +2,6 @@
 
 I'm 21 years old and I study at Ajou University in Tashkent. Now I'm learning Frontend Web-development, you can see my studying process (via posts and stories) and contact with me from my social media profiles.
 <br>
-<br>
 
 ### 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilshodjon2004&show_icons=true&theme=radical)  
@@ -29,11 +28,22 @@ I'm 21 years old and I study at Ajou University in Tashkent. Now I'm learning Fr
 
 ### Languages and tools I work with:
 
-<code><img src="" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYncmo7j1JNjWNMachF5rU8aLYIq_9gpoxXg&s" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="30px"></code>
-<code><img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" width="30px" height="30px"></code>
+<code><img src="https://img.icons8.com/color/600/tailwind_css.png" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px" height="30px"></code>
+<code><img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8BOaJS__WDLbw__6UwcZeAOLO5M6eIhgYA&s" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
  
  <br>
  
