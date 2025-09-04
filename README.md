@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 
 I'm 21 years old and I study at Ajou University in Tashkent. Now I'm learning Frontend Web-development, you can see my studying process (via posts and stories) and contact with me from my social media profiles. <br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshodjon2004&layout=compact&theme=radical)  
 <p>
   <a href="http://www.instagram.com/dilshodbek_gulomov" style="display: inline;">
     <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px">  
   </a>
   <a href="https://www.facebook.com/dilshodbek.gulomov.5" style="display: inline;">
-    <img src="https://img.freepik.com/premium-psd/facebook-logo-icon_705838-12833.jpg?w=360" width="30px">  
+    <img src="https://static.vecteezy.com/system/resources/previews/021/495/985/non_2x/facebook-social-media-logo-icon-free-png.png" width="30px">  
   </a>
   <a href="https://www.linkedin.com/in/dilshodbek-gulomov" style="display: inline;">
-    <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-Logo-Square-1024x1024.png" width="30px">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="30px">  
   </a>
-  <a href="https://t.me/junior_software_engineer" style="display: inline;">
+  <a href="https://t.me/dilshod_swe" style="display: inline;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px">  
   </a>
   <a href="https://wa.me/998994343475" style="display: inline;">
